@@ -1,0 +1,76 @@
+.imagen-1{
+    margin: 2% 18%;
+    position: absolute;
+}
+
+.formulario{
+    position: absolute;
+    margin: 3% 52%;
+}
+
+.letra-insta{
+    width: 250px;
+    height: 70px;
+}
+
+.input,
+.boton{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-img{
+    margin: 30px;
+}
+
+.boton-css{
+    margin-top: 10px;
+    border: rgb(0, 162, 255) solid;
+    border-radius: 7.5px;
+    background-color: rgb(0, 162, 255);
+    color: white;
+    height: 30px;
+    width: 270px;
+}
+
+.line-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+  }
+  
+  .line {
+    height: 1px;
+    width: 50%;
+    background-color: #8a8a8a;
+  }
+
+.p{
+    margin: 10px;
+    font-size: 1.3em;
+    color:  #8a8a8a;
+}
+
+.input-p{
+    width: 250px;
+    height: 30px;
+}
+
+.facebook-mini{
+    width: 20px;
+    height: 20px;
+}
+
+.a-2{
+    color: aqua;
+}
+
+.div{
+    width: 335px;
+    height: 50px;
+    border: 1px solid #8a8a8a;
+    position: absolute;
+    margin: 33% 52.1%;
+}
